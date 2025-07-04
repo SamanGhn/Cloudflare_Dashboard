@@ -198,6 +198,7 @@ sudo systemctl stop cfbot
 ## 📁 Project Structure
 
 Cloudflare_Dashboard/
+
 ├── bot.py              # Main bot application
 ├── config.py           # Configuration loader
 ├── menu.sh            # Setup
